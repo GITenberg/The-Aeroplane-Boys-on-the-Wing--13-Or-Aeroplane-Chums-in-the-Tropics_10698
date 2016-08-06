@@ -1,0 +1,22 @@
+_repo: The-Aeroplane-Boys-on-the-Wing--13-Or-Aeroplane-Chums-in-the-Tropics_10698
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Langworthy, John Luther
+    gutenberg_agent_id: '3583'
+    url: http://www.gutenberg.org/2009/agents/3583
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10698'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aeronautics -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: "The Aeroplane Boys on the Wing\r\nOr, Aeroplane Chums in the Tropics"
+url: http://www.gutenberg.org/ebooks/10698
